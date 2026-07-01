@@ -1,0 +1,37 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="22"
+        android:translateY="22">
+        <!-- Vòng tròn ngoài -->
+        <path
+            android:fillColor="#6200EE"
+            android:pathData="M32,0C14.3,0 0,14.3 0,32s14.3,32 32,32s32,-14.3 32,-32S49.7,0 32,0zM32,58c-14.3,0 -26,-11.7 -26,-26S17.7,6 32,6s26,11.7 26,26S46.3,58 32,58z" />
+
+        <!-- Kim giờ (ID: hour) -->
+        <path
+            android:id="@+id/hour"
+            android:fillColor="#FFFFFF"
+            android:pathData="M31,16h2v16h-2z" />
+
+        <!-- Kim phút (ID: minute) -->
+        <path
+            android:id="@+id/minute"
+            android:fillColor="#FFFFFF"
+            android:pathData="M31,31h12v2h-12z" />
+
+        <!-- Kim giây (ID: second - nếu cần) -->
+        <path
+            android:id="@+id/second"
+            android:fillColor="#FF5252"
+            android:pathData="M31,10h1v22h-1z" />
+
+        <!-- Tâm đồng hồ -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M32,32m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+    </group>
+</vector>
