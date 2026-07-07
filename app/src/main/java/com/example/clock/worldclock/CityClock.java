@@ -1,4 +1,4 @@
-package com.example.clock;
+package com.example.clock.worldclock;
 
 public class CityClock {
     private String cityName;

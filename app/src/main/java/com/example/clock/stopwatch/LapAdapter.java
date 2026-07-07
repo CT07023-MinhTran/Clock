@@ -1,4 +1,6 @@
-package com.example.clock;
+package com.example.clock.stopwatch;
+
+import com.example.clock.R;
 
 import android.view.LayoutInflater;
 import android.view.View;

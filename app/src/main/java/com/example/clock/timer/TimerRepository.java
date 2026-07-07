@@ -1,4 +1,4 @@
-package com.example.clock;
+package com.example.clock.timer;
 
 import java.util.ArrayList;
 import java.util.List;

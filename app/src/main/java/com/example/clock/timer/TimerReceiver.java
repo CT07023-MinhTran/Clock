@@ -1,4 +1,7 @@
-package com.example.clock;
+package com.example.clock.timer;
+
+import com.example.clock.R;
+import com.example.clock.main.MainActivity;
 
 import android.app.NotificationChannel;
 import android.app.NotificationManager;

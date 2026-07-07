@@ -1,4 +1,4 @@
-package com.example.clock;
+package com.example.clock.alarm;
 
 import java.util.ArrayList;
 import java.util.List;
