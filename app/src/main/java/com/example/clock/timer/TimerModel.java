@@ -1,4 +1,4 @@
-package com.example.clock;
+package com.example.clock.timer;
 
 public class TimerModel {
     private long id;

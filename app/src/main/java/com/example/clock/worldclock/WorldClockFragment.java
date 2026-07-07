@@ -1,4 +1,6 @@
-package com.example.clock;
+package com.example.clock.worldclock;
+
+import com.example.clock.R;
 
 import android.app.AlertDialog;
 import android.os.Bundle;

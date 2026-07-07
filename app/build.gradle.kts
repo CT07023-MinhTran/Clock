@@ -37,12 +37,11 @@ android {
     sourceSets {
         getByName("main") {
             res.srcDirs(
-                "src/main/res/layout/main",
-                "src/main/res/layout/alarm",
-                "src/main/res/layout/world_clock",
-                "src/main/res/layout/timer",
-                "src/main/res/layout/stopwatch",
-                "src/main/res/layout",
+                "src/main/res-layouts/main",
+                "src/main/res-layouts/alarm",
+                "src/main/res-layouts/world_clock",
+                "src/main/res-layouts/timer",
+                "src/main/res-layouts/stopwatch",
                 "src/main/res"
             )
         }

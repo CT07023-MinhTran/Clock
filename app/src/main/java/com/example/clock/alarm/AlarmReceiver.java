@@ -1,4 +1,6 @@
-package com.example.clock;
+package com.example.clock.alarm;
+
+import com.example.clock.R;
 
 import android.app.NotificationChannel;
 import android.app.NotificationManager;

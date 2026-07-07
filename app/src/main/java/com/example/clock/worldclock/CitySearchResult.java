@@ -1,4 +1,4 @@
-package com.example.clock;
+package com.example.clock.worldclock;
 
 import androidx.annotation.NonNull;
 
